@@ -1,0 +1,10 @@
+INSERT INTO varejo.tb_produto (codigo, nome, valor) VALUES('001', 'Video Game Xbox One', 1200.00);
+INSERT INTO varejo.tb_produto (codigo, nome, valor) VALUES('002', 'Notebook Dell', 3200.00);
+INSERT INTO varejo.tb_produto (codigo, nome, valor) VALUES('003', 'TV Samsung 4K', 4000.00);
+INSERT INTO varejo.tb_produto (codigo, nome, valor) VALUES('004', 'PC Gamer', 5200.00);
+INSERT INTO varejo.tb_produto (codigo, nome, valor) VALUES('005', 'Mouse Pad', 200);
+INSERT INTO varejo.tb_produto (codigo, nome, valor) VALUES('006', 'Teclado Microsoft', 350);
+INSERT INTO varejo.tb_produto (codigo, nome, valor) VALUES('007', 'Fone Wireless', 1200.00);
+INSERT INTO varejo.tb_produto (codigo, nome, valor) VALUES('008', 'Celular Iphone 8', 7000.00);
+INSERT INTO varejo.tb_produto (codigo, nome, valor) VALUES('009', 'Mouse', 200);
+INSERT INTO varejo.tb_produto (codigo, nome, valor) VALUES('0010', 'Video Game Playstation 4', 2200.00);
